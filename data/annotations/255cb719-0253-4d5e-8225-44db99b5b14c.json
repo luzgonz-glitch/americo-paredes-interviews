@@ -1,5 +1,5612 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[crosstalk] Test testing, 1 2 3 4"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unidentified"
+        }
+      ],
+      "uuid": "1e435658-72c2-4e63-a9a2-9c40de675c89"
+    },
+    {
+      "start_time": 16,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dr. Paredes, can I put your microphone on, sir?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unidentified"
+        }
+      ],
+      "uuid": "30ded99d-008f-4126-8e20-7068ec7d9fc7"
+    },
+    {
+      "start_time": 43,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The doctor, went Monday, then Tuesday and I’m taking this Coumadin which thins out your blood, and I’m not supposed to cut myself shaving. I have atrial fibrillation which is a very, a very sneaky kind of condition. Think you’ve read at least of a basketball player who collapsed in the courts in top physical condition, and it hits you without warning."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Garza, Orlando",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "f1ee1a2b-69cc-46e8-b216-9ff942d74d79"
+    },
+    {
+      "start_time": 78,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have a pacemaker, the way my mother used to, but I got that a year ago, and I was having it checked, and they have a, they were recording the cardiogram, and all of a sudden, it went wild without warning. It’s the top part of the heart, the atrium, atrial fibrillation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Garza, Orlando",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "b378e7c0-3ec8-4526-b805-130f4cfb8b97"
+    },
+    {
+      "start_time": 110,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it can either kill you by stopping your heart, but the pacemaker doesn’t allow it, but if you have a pacemaker it can go up too high and create clots in your heart, and that’s the problem I have now. That’s why, ya estoy viejo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Garza, Orlando",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "ff701138-b9b2-4b0e-9381-c7dce48184d5"
+    },
+    {
+      "start_time": 139,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I understand that at the end of the years it's the wear and tear. For example, I was talking to Orlando Garza over the phone, and he has not had any of the major diseases, either heart trouble or cancer. I had prostate cancer, a long time ago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Garza, Orlando",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "ced63bdd-108f-414b-a614-cb3b81b3c28e"
+    },
+    {
+      "start_time": 165,
+      "end_time": 179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It’s in remission, and I had heart troubles since 1981. Fighting it, fighting it, fighting it. Por eso, my voice is not going to be very good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Garza, Orlando",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "99cba713-7b12-42c9-9798-002f1e086af9"
+    },
+    {
+      "start_time": 181,
+      "end_time": 189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When you need to rest, do so. You know, these takes last about twenty minutes each, and you know, tell us when you just want to stop, we’ll stop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Medrano, Manuel, 1949-",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "1994-09-22"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "University of Texas"
+        }
+      ],
+      "uuid": "ed26f259-b0ea-4812-b0b9-9a55f79ea48d"
+    },
+    {
+      "start_time": 194,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now how do you want to lead off?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "1994-09-22"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "University of Texas"
+        }
+      ],
+      "uuid": "59c400fd-0fec-4cca-bd15-b08095a0b88c"
+    },
+    {
+      "start_time": 195,
+      "end_time": 214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I’m just going to introduce you, just say what day it is, and we’re at the home of Dr. Americo Paredes. Today is September 22, 1994. We are very pleased to be at the home of Dr. Americo Paredes, professor emeritus at the University of Texas at Austin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Medrano, Manuel, 1949-",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "1994-09-22"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "University of Texas"
+        }
+      ],
+      "uuid": "ab46eb63-6d40-4a28-9238-3120f97dba1e"
+    },
+    {
+      "start_time": 215,
+      "end_time": 226,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dr. Paredes, what can you tell us about your childhood? Where were you born? What can you tell us about your parents? Where’d you grow up?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Medrano, Manuel, 1949-",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1915",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1915-09-03",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ethnic cleansing",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Border Troubles"
+        },
+        {
+          "tag": "Grapefruit orchards",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "2d054264-793a-45a1-a247-ae6e67b5404f"
+    },
+    {
+      "start_time": 227,
+      "end_time": 251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born in Brownsville. I’m a Brownsville boy, was September 3, 1915, during the height of the so-called border troubles. [Inaudible] When there was a kind of ethnic cleansing, to use a current word, along the border when Rangers and others murdered"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1915",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1915-09-03",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ethnic cleansing",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Border Troubles"
+        },
+        {
+          "tag": "Grapefruit orchards",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "6e49e1d6-52f3-48dd-b3b8-5fafc0fa30fd"
+    },
+    {
+      "start_time": 251,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a number of Mexicans and intimidated a lot of others to leave the country, in other words, so the country could be developed. That’s why we have grapefruit orchards and all of that in Brownsville, that area."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1915",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1915-09-03",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ethnic cleansing",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Border Troubles"
+        },
+        {
+          "tag": "Grapefruit orchards",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "d26b2c4a-39d5-43bd-9093-0e23522486af"
+    },
+    {
+      "start_time": 267,
+      "end_time": 269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And your parents? What can you tell me about your parents?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Medrano, Manuel, 1949-",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Cerralvo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Monterrey",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain--Asturias",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1492",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1580",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1749",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1820",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1860s",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hinojosa-Smith, Rolando, 1929-2012"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Vidal, Jose Maria",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Perez, Unidentified",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Escandon, Jose de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Carvajal y de la Cueva, Luis de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hawkins, John, Sir 1532-1595",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvajal El Mozo, Luis de, 1567-1597"
+        },
+        {
+          "tag": "Religious conversion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Judaism",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Religious persecution",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Colonization",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Intermarriage",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inquisition--Mexico"
+        },
+        {
+          "tag": "Ancestry",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hinojosa-Cisneros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Folk song--Religious",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "90d90d18-6bbf-42b6-a55e-4b8dafe85386"
+    },
+    {
+      "start_time": 270,
+      "end_time": 309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My father came from people that settled, colonized the area in 1749. They came north with Escandon, but they had settled in the area around where Nuevo Leon is now in 1580. They were part of a colony of Sephardic Jews that were brought over by, como se llamaba este hombre, it’s my problem with names."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Cerralvo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Monterrey",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain--Asturias",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1492",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1580",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1749",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1820",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1860s",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hinojosa-Smith, Rolando, 1929-2012"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Vidal, Jose Maria",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Perez, Unidentified",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Escandon, Jose de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Carvajal y de la Cueva, Luis de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hawkins, John, Sir 1532-1595",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvajal El Mozo, Luis de, 1567-1597"
+        },
+        {
+          "tag": "Religious conversion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Judaism",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Religious persecution",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Colonization",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Intermarriage",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inquisition--Mexico"
+        },
+        {
+          "tag": "Ancestry",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hinojosa-Cisneros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Folk song--Religious",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "fae51a0e-351c-4bd8-9f1f-72fb6a18a128"
+    },
+    {
+      "start_time": 309,
+      "end_time": 347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can’t remember his name right now, Carvajal y [de la] Cueva. Now the Jews had been given the, after 1492, either to leave the country or to become Christianized. Many of them remain practicing their religion in secret. Luis de Carvajal y [de la] Cueva was one of them, and he rose in the esteem of the crown."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Cerralvo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Monterrey",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain--Asturias",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1492",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1580",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1749",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1820",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1860s",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hinojosa-Smith, Rolando, 1929-2012"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Vidal, Jose Maria",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Perez, Unidentified",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Escandon, Jose de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Carvajal y de la Cueva, Luis de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hawkins, John, Sir 1532-1595",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvajal El Mozo, Luis de, 1567-1597"
+        },
+        {
+          "tag": "Religious conversion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Judaism",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Religious persecution",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Colonization",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Intermarriage",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inquisition--Mexico"
+        },
+        {
+          "tag": "Ancestry",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hinojosa-Cisneros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Folk song--Religious",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "81c848c9-da56-4d19-86d2-9a9e350c7075"
+    },
+    {
+      "start_time": 348,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He had come to Mexico once, and participated in the defeat and capture of a pirate that English history doesn’t talk very much about, John Hawkins, because the Spanish captured him, hanged him, and destroyed his fleet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Cerralvo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Monterrey",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain--Asturias",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1492",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1580",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1749",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1820",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1860s",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hinojosa-Smith, Rolando, 1929-2012"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Vidal, Jose Maria",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Perez, Unidentified",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Escandon, Jose de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Carvajal y de la Cueva, Luis de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hawkins, John, Sir 1532-1595",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvajal El Mozo, Luis de, 1567-1597"
+        },
+        {
+          "tag": "Religious conversion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Judaism",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Religious persecution",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Colonization",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Intermarriage",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inquisition--Mexico"
+        },
+        {
+          "tag": "Ancestry",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hinojosa-Cisneros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Folk song--Religious",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "4673d646-605a-413e-9bdc-f6dbf930be1d"
+    },
+    {
+      "start_time": 369,
+      "end_time": 395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, he gained the confidence of the crown, and they allowed him to bring a colony to settle what was then the northern border, just about that time other colonists were moving to New Mexico in 1580. And, he brought more than 100 families."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Cerralvo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Monterrey",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain--Asturias",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1492",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1580",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1749",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1820",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1860s",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hinojosa-Smith, Rolando, 1929-2012"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Vidal, Jose Maria",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Perez, Unidentified",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Escandon, Jose de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Carvajal y de la Cueva, Luis de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hawkins, John, Sir 1532-1595",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvajal El Mozo, Luis de, 1567-1597"
+        },
+        {
+          "tag": "Religious conversion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Judaism",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Religious persecution",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Colonization",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Intermarriage",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inquisition--Mexico"
+        },
+        {
+          "tag": "Ancestry",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hinojosa-Cisneros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Folk song--Religious",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "8089e29e-4ec4-4a23-9ce2-a06d61930ee6"
+    },
+    {
+      "start_time": 395,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lot of them, it appears, were crypto-Jews or Judaizantes, as they were called. And later he was accused, interestingly enough, because Judaism is very much a male religion. His sister was accused of practicing Judaism in secret."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Cerralvo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Monterrey",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain--Asturias",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1492",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1580",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1749",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1820",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1860s",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hinojosa-Smith, Rolando, 1929-2012"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Vidal, Jose Maria",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Perez, Unidentified",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Escandon, Jose de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Carvajal y de la Cueva, Luis de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hawkins, John, Sir 1532-1595",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvajal El Mozo, Luis de, 1567-1597"
+        },
+        {
+          "tag": "Religious conversion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Judaism",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Religious persecution",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Colonization",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Intermarriage",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inquisition--Mexico"
+        },
+        {
+          "tag": "Ancestry",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hinojosa-Cisneros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Folk song--Religious",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "65c75f38-cde8-4e4b-9022-789fdb2d2dbd"
+    },
+    {
+      "start_time": 421,
+      "end_time": 453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And he and his nephew, Luis de Carvajal el Mosso, might have been his son, but you know in those days even the popes had nephews. They were tried by the Inquisition. The old man was pardoned on the condition that he would not appear in the colonies anymore, but he died."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Cerralvo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Monterrey",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain--Asturias",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1492",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1580",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1749",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1820",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1860s",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hinojosa-Smith, Rolando, 1929-2012"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Vidal, Jose Maria",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Perez, Unidentified",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Escandon, Jose de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Carvajal y de la Cueva, Luis de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hawkins, John, Sir 1532-1595",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvajal El Mozo, Luis de, 1567-1597"
+        },
+        {
+          "tag": "Religious conversion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Judaism",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Religious persecution",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Colonization",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Intermarriage",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inquisition--Mexico"
+        },
+        {
+          "tag": "Ancestry",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hinojosa-Cisneros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Folk song--Religious",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "65ecbb98-31b3-4d98-9787-1a1482770a41"
+    },
+    {
+      "start_time": 454,
+      "end_time": 471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "‘Course the questioning at that time was rather rough, you know, with some screw and the stake, that other, so he died before he could leave. And Luis el Mosso was burned."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Cerralvo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Monterrey",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain--Asturias",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1492",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1580",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1749",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1820",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1860s",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hinojosa-Smith, Rolando, 1929-2012"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Vidal, Jose Maria",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Perez, Unidentified",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Escandon, Jose de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Carvajal y de la Cueva, Luis de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hawkins, John, Sir 1532-1595",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvajal El Mozo, Luis de, 1567-1597"
+        },
+        {
+          "tag": "Religious conversion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Judaism",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Religious persecution",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Colonization",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Intermarriage",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inquisition--Mexico"
+        },
+        {
+          "tag": "Ancestry",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hinojosa-Cisneros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Folk song--Religious",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "68796606-de65-4d70-a0e9-3a65d37abf00"
+    },
+    {
+      "start_time": 472,
+      "end_time": 503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So those people had founded at least three towns. One of them was now known as Cerralvo, it was Ciudad Leon, and he was the one that gave the name El Rey el nuevo rey de Nuevo Leon, but then they sent others Cristianos viejos to found Monterrey, but the people that had come with him kept kind of a low profile, and they married into each other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Cerralvo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Monterrey",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain--Asturias",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1492",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1580",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1749",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1820",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1860s",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hinojosa-Smith, Rolando, 1929-2012"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Vidal, Jose Maria",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Perez, Unidentified",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Escandon, Jose de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Carvajal y de la Cueva, Luis de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hawkins, John, Sir 1532-1595",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvajal El Mozo, Luis de, 1567-1597"
+        },
+        {
+          "tag": "Religious conversion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Judaism",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Religious persecution",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Colonization",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Intermarriage",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inquisition--Mexico"
+        },
+        {
+          "tag": "Ancestry",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hinojosa-Cisneros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Folk song--Religious",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "09b5f337-612e-4485-b289-224c9f843f20"
+    },
+    {
+      "start_time": 503,
+      "end_time": 523,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And even when I was a boy going to the ranchos on the Mexican side in summer, I heard a little jingle, I understood it had been sung probably very low until 1820 because you could have been burned for that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Cerralvo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Monterrey",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain--Asturias",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1492",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1580",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1749",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1820",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1860s",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hinojosa-Smith, Rolando, 1929-2012"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Vidal, Jose Maria",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Perez, Unidentified",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Escandon, Jose de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Carvajal y de la Cueva, Luis de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hawkins, John, Sir 1532-1595",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvajal El Mozo, Luis de, 1567-1597"
+        },
+        {
+          "tag": "Religious conversion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Judaism",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Religious persecution",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Colonization",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Intermarriage",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inquisition--Mexico"
+        },
+        {
+          "tag": "Ancestry",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hinojosa-Cisneros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Folk song--Religious",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "96dcafdc-23c0-4dc2-976c-6cabee6182ed"
+    },
+    {
+      "start_time": 523,
+      "end_time": 551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It said “Cuatro son las tres Marias, Cinco los cuatro elementos, Ocho las siete cabrillas,” there was a [inaudible], “Once los dies mandamientos, Y un solo Dios son tres.” Of course denial completely of the Holy Trinity, so there still was a little bit of."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Cerralvo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Monterrey",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain--Asturias",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1492",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1580",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1749",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1820",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1860s",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hinojosa-Smith, Rolando, 1929-2012"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Vidal, Jose Maria",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Perez, Unidentified",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Escandon, Jose de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Carvajal y de la Cueva, Luis de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hawkins, John, Sir 1532-1595",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvajal El Mozo, Luis de, 1567-1597"
+        },
+        {
+          "tag": "Religious conversion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Judaism",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Religious persecution",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Colonization",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Intermarriage",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inquisition--Mexico"
+        },
+        {
+          "tag": "Ancestry",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hinojosa-Cisneros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Folk song--Religious",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "a16a9365-fc68-44f2-843a-270e01e4b6cb"
+    },
+    {
+      "start_time": 551,
+      "end_time": 589,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So these people married each other. For example, Rolando Hinojosa, who I’m sure you know, we have compared notes, he grew up in the [inaudible] Mier area, but I have Hinojosa relatives down in the [inaudible] Hinojosa-Cisneros. They said thirteen families that founded Matamoros were originally Sephardic families. So my father’s people stayed, were anti-clerical"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Cerralvo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Monterrey",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain--Asturias",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1492",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1580",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1749",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1820",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1860s",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hinojosa-Smith, Rolando, 1929-2012"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Vidal, Jose Maria",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Perez, Unidentified",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Escandon, Jose de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Carvajal y de la Cueva, Luis de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hawkins, John, Sir 1532-1595",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvajal El Mozo, Luis de, 1567-1597"
+        },
+        {
+          "tag": "Religious conversion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Judaism",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Religious persecution",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Colonization",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Intermarriage",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inquisition--Mexico"
+        },
+        {
+          "tag": "Ancestry",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hinojosa-Cisneros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Folk song--Religious",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "351f45f7-d013-43d0-8d86-233ad6cd6ef1"
+    },
+    {
+      "start_time": 589,
+      "end_time": 611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "freemasons, as I say in one of my articles. They didn’t intermarry very much. Now my father did. The other matter of intermarrying broke down in the 1860s. He married someone who’s parents had come from Spain."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Cerralvo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Monterrey",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain--Asturias",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1492",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1580",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1749",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1820",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1860s",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hinojosa-Smith, Rolando, 1929-2012"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Vidal, Jose Maria",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Perez, Unidentified",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Escandon, Jose de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Carvajal y de la Cueva, Luis de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hawkins, John, Sir 1532-1595",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvajal El Mozo, Luis de, 1567-1597"
+        },
+        {
+          "tag": "Religious conversion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Judaism",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Religious persecution",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Colonization",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Intermarriage",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inquisition--Mexico"
+        },
+        {
+          "tag": "Ancestry",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hinojosa-Cisneros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Folk song--Religious",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "698e1104-ce57-4a11-8d51-758c0582693b"
+    },
+    {
+      "start_time": 611,
+      "end_time": 645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My mother’s father had come from Asturias, and her mother was born on the border, but her father, Jose Maria Vidal, was a Catalan. Her mother was Perez, also the people that had colonized originally. So that was, is my background, I might say."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Cerralvo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Monterrey",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spain--Asturias",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1492",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1580",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1749",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1820",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1860s",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hinojosa-Smith, Rolando, 1929-2012"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Vidal, Jose Maria",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Perez, Unidentified",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Escandon, Jose de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Carvajal y de la Cueva, Luis de",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hawkins, John, Sir 1532-1595",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvajal El Mozo, Luis de, 1567-1597"
+        },
+        {
+          "tag": "Religious conversion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Judaism",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Religious persecution",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Colonization",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Intermarriage",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inquisition--Mexico"
+        },
+        {
+          "tag": "Ancestry",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Hinojosa-Cisneros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Folk song--Religious",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "be075801-911f-4eaf-9e1c-4b5284193798"
+    },
+    {
+      "start_time": 647,
+      "end_time": 657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You were born in Brownsville. What recollections do you have of your early years here, growing up, going to school there? What do you remember about the city, about the school system, about your own education?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Medrano, Manuel, 1949-",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Klahn, Sabas 1915-1992",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ramirez, Roberto",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Great Depression",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Smuggling--Alcohol",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Childhood Friends",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "c0213d27-da24-4ffd-be84-9abb8849c73f"
+    },
+    {
+      "start_time": 657,
+      "end_time": 680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it was a very peaceful city. Now it is not, unfortunately. But we grew up during the Depression. By “we” I mean my friends for example, Sabas Klahn, who died not too long ago, Roberto Ramirez, of another family there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Klahn, Sabas 1915-1992",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ramirez, Roberto",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Great Depression",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Smuggling--Alcohol",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Childhood Friends",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "cd1f9827-0fcf-4d2c-94a0-2463af710d7a"
+    },
+    {
+      "start_time": 680,
+      "end_time": 713,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We didn’t have no money, so very often we would just go out walking anywhere. No danger of that sort. There was before the Roosevelt era there was smuggling, but that didn’t bother us. Mostly the smuggling was tequila and izado, and that did not, in other words, drugs were not a problem then, or what are known as drug lords nowadays."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Klahn, Sabas 1915-1992",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ramirez, Roberto",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Great Depression",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Smuggling--Alcohol",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Childhood Friends",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "56988a15-248b-4f8b-a353-8c06ac0f1390"
+    },
+    {
+      "start_time": 714,
+      "end_time": 720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you recall about the downtown area? Is there something special that you remember about walking in el centro? That’s what they-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Medrano, Manuel, 1949-",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Washington Street",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Street names--Presidents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Street names--Saints",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Anglos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Beach",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reeds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "b35426b6-f2c2-4c7f-bf1f-c2fc08a45652"
+    },
+    {
+      "start_time": 720,
+      "end_time": 741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it was something like a Mexican town. We didn’t have a plaza, but Elizabeth Street and Washington Street, to a certain extent, acted, on Saturday evenings because that time, all the farmers and ranchers came to town on Saturday."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Washington Street",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Street names--Presidents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Street names--Saints",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Anglos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Beach",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reeds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "066295d1-4f77-4691-8d15-3488158ee784"
+    },
+    {
+      "start_time": 742,
+      "end_time": 773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the girls, including some from Matamoros, would walk all along Elizabeth Street. On the other side, the boys would walk the other way or talk to them, try to court them. That existed at that time. And Washington Street was still part of downtown, and then of course, from Washington"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Washington Street",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Street names--Presidents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Street names--Saints",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Anglos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Beach",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reeds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "3fbc11a3-4d4d-48d3-9552-5f099d79024c"
+    },
+    {
+      "start_time": 773,
+      "end_time": 793,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "on we had streets named for presidents, and those Spanish speaking people were, there aren’t really Anglos there, but the leaders of the town, Anglos lived on the other side of Elizabeth on streets that were named after saints in Spanish."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Washington Street",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Street names--Presidents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Street names--Saints",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Anglos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Beach",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reeds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "79595eae-7742-4248-9462-abb32996b565"
+    },
+    {
+      "start_time": 793,
+      "end_time": 799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Irony, there. [Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Medrano, Manuel, 1949-",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Washington Street",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Street names--Presidents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Street names--Saints",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Anglos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Beach",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reeds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "4bf798d6-d98f-4e55-9cf5-c4efe28e9958"
+    },
+    {
+      "start_time": 799,
+      "end_time": 826,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughter]. A little irony. But I lived really by, my memories are divided in a certain way. My father had been the eldest son, and they had had lands in what is now Texas south of the Nueces which then was part of the province of Nuevo Santander and Tamaulipas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Nueces River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spanish Province--Nuevo Santander",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Rio Grande River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Paredes Lineroad",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1920",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Mifflin, 1818-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Petra Vela, 1823-1885"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vidal, Luis, 1813-1849"
+        },
+        {
+          "tag": "Unidentified, King",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Garza, Catarino, 1859-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Diaz, Porfirio, 1830-1915"
+        },
+        {
+          "tag": "Cuellar, Romo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Unidentified, Vicente",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ranching",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Voting--Law and legislation",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Citizenship",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Oral tradition"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Beach",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reeds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "cb9700de-1af7-4d09-a1a2-1f8fec2531f2"
+    },
+    {
+      "start_time": 827,
+      "end_time": 859,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They had to sell out. Though they managed to sell out to one of the big cattle barons who was married to a Mexican. Kenedy, Mifflin Kenedy. He married Doña Petra Vela, viuda de Vidal. And the people that put pressure on him was King who would send out goons to kill his cattle and do things of that sort."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Nueces River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spanish Province--Nuevo Santander",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Rio Grande River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Paredes Lineroad",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1920",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Mifflin, 1818-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Petra Vela, 1823-1885"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vidal, Luis, 1813-1849"
+        },
+        {
+          "tag": "Unidentified, King",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Garza, Catarino, 1859-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Diaz, Porfirio, 1830-1915"
+        },
+        {
+          "tag": "Cuellar, Romo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Unidentified, Vicente",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ranching",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Voting--Law and legislation",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Citizenship",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Oral tradition"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Beach",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reeds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "7bf607f9-c759-4e19-9b94-f7350079a238"
+    },
+    {
+      "start_time": 860,
+      "end_time": 888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And King wanted him just to pack up and leave, and Kenedy bought him at a little better price and allowed him to take his cattle and his remudas, his horses, and go south of the Rio Grande. So he settled over there. Finally ended up, since he had no land there of his own, the Paredeses had land north of the Rio Grande."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Nueces River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spanish Province--Nuevo Santander",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Rio Grande River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Paredes Lineroad",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1920",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Mifflin, 1818-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Petra Vela, 1823-1885"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vidal, Luis, 1813-1849"
+        },
+        {
+          "tag": "Unidentified, King",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Garza, Catarino, 1859-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Diaz, Porfirio, 1830-1915"
+        },
+        {
+          "tag": "Cuellar, Romo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Unidentified, Vicente",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ranching",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Voting--Law and legislation",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Citizenship",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Oral tradition"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Beach",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reeds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "0aae9a1c-2976-47c8-b563-3d8f709c77d3"
+    },
+    {
+      "start_time": 888,
+      "end_time": 921,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There still is the Paredes Line road there, Tomas Paredes, who was I think the brother of my great-grandfather. But they settled with the Cisneros, and my father, who was the eldest, was supposed to inherit the home place because they didn’t have problems with [inaudible]. They always divided the land, but the eldest would take the home place. But he was a rebel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Nueces River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spanish Province--Nuevo Santander",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Rio Grande River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Paredes Lineroad",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1920",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Mifflin, 1818-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Petra Vela, 1823-1885"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vidal, Luis, 1813-1849"
+        },
+        {
+          "tag": "Unidentified, King",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Garza, Catarino, 1859-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Diaz, Porfirio, 1830-1915"
+        },
+        {
+          "tag": "Cuellar, Romo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Unidentified, Vicente",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ranching",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Voting--Law and legislation",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Citizenship",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Oral tradition"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Beach",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reeds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "15bca0b6-b0d2-42a5-b383-368ad439e3a1"
+    },
+    {
+      "start_time": 921,
+      "end_time": 941,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In fact, he was mixed up in a couple of revolutions. I mentioned it then in With His Pistol in His Hand, he was with Catarino Garza against his father’s wishes because my grandfather was one of those that helped Porfirio Diaz."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Nueces River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spanish Province--Nuevo Santander",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Rio Grande River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Paredes Lineroad",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1920",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Mifflin, 1818-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Petra Vela, 1823-1885"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vidal, Luis, 1813-1849"
+        },
+        {
+          "tag": "Unidentified, King",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Garza, Catarino, 1859-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Diaz, Porfirio, 1830-1915"
+        },
+        {
+          "tag": "Cuellar, Romo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Unidentified, Vicente",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ranching",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Voting--Law and legislation",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Citizenship",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Oral tradition"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "With His Pistol in His Hand",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Beach",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reeds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "d63a3326-b31f-4c2e-a362-d3a7fb06e76f"
+    },
+    {
+      "start_time": 941,
+      "end_time": 984,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He was friend of Cuellar, Rogenio or Romo, Romo Cuellar who also were involved with Porfirio Diaz, but my father went against them. Finally, he did settle there, and my eldest brother, Eliseo, who was finally went back to Mexico, was born there, and my sister. I don’t think your mother was born over there. She was born on the American side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Nueces River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spanish Province--Nuevo Santander",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Rio Grande River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Paredes Lineroad",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1920",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Mifflin, 1818-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Petra Vela, 1823-1885"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vidal, Luis, 1813-1849"
+        },
+        {
+          "tag": "Unidentified, King",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Garza, Catarino, 1859-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Diaz, Porfirio, 1830-1915"
+        },
+        {
+          "tag": "Cuellar, Romo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Unidentified, Vicente",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ranching",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Voting--Law and legislation",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Citizenship",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Oral tradition"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Beach",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reeds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "6d1abd60-c3fe-47bf-b420-8a07676c6d44"
+    },
+    {
+      "start_time": 984,
+      "end_time": 1013,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But then, my father apparently decided he just did not want to be a ranchero. He wanted to be in town, so he came over to Brownsville. And there at that time, as I understand, up until 1920, it may have been, local law said all residents could vote. There was a nice twist because"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Nueces River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spanish Province--Nuevo Santander",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Rio Grande River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Paredes Lineroad",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1920",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Mifflin, 1818-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Petra Vela, 1823-1885"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vidal, Luis, 1813-1849"
+        },
+        {
+          "tag": "Unidentified, King",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Garza, Catarino, 1859-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Diaz, Porfirio, 1830-1915"
+        },
+        {
+          "tag": "Cuellar, Romo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Unidentified, Vicente",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ranching",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Voting--Law and legislation",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Citizenship",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Oral tradition"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Beach",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reeds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "29428983-b1bc-4d53-bf78-ae81640ddf26"
+    },
+    {
+      "start_time": 1013,
+      "end_time": 1032,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "there were a lot of Mexicanos who were residents and they weren’t American citizens. My father never became an American citizen, but during that period, he was a kind of a political boss among the Mexicans. I use some of that in George Washington Gomez."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Nueces River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spanish Province--Nuevo Santander",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Rio Grande River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Paredes Lineroad",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1920",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Mifflin, 1818-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Petra Vela, 1823-1885"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vidal, Luis, 1813-1849"
+        },
+        {
+          "tag": "Unidentified, King",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Garza, Catarino, 1859-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Diaz, Porfirio, 1830-1915"
+        },
+        {
+          "tag": "Cuellar, Romo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Unidentified, Vicente",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ranching",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Voting--Law and legislation",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Citizenship",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Oral tradition"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "George Washington Gomez",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Beach",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reeds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "d920b356-61a0-4fa7-9779-d3d94bd7c6c6"
+    },
+    {
+      "start_time": 1033,
+      "end_time": 1055,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But his second brother, Vicente, I named one of my sons after him, took over the rancho, and we, my younger brothers and I, would go every summer until I was fourteen. We would go over there, the rest of the family might go to San Antonio, where"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Nueces River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spanish Province--Nuevo Santander",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Rio Grande River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Paredes Lineroad",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1920",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Mifflin, 1818-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Petra Vela, 1823-1885"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vidal, Luis, 1813-1849"
+        },
+        {
+          "tag": "Unidentified, King",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Garza, Catarino, 1859-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Diaz, Porfirio, 1830-1915"
+        },
+        {
+          "tag": "Cuellar, Romo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Unidentified, Vicente",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ranching",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Voting--Law and legislation",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Citizenship",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Oral tradition"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Beach",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reeds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "8366df22-7938-46f7-affa-e1f866ec93d9"
+    },
+    {
+      "start_time": 1055,
+      "end_time": 1084,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "my mother had a brother, or to the beach or so on. We would head immediately across the river, the back way. [laughter] Everybody had little boats hidden along the reeds there, and we would stay there for three months, living like Mexicans, listening to the old people tell their stories."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Nueces River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spanish Province--Nuevo Santander",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Rio Grande River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Paredes Lineroad",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1920",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Mifflin, 1818-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Petra Vela, 1823-1885"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vidal, Luis, 1813-1849"
+        },
+        {
+          "tag": "Unidentified, King",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Garza, Catarino, 1859-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Diaz, Porfirio, 1830-1915"
+        },
+        {
+          "tag": "Cuellar, Romo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Unidentified, Vicente",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ranching",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Voting--Law and legislation",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Citizenship",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Oral tradition"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Beach",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reeds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "682b7efa-d5ab-41ec-ba16-dc62821826ef"
+    },
+    {
+      "start_time": 1084,
+      "end_time": 1105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My father would come down sometimes also. And then, at the end of August, they’d drag us back to Brownsville, and once there, I was living in another world. Because I had learned English at home, so I didn’t have the problem of, the language problem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Nueces River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spanish Province--Nuevo Santander",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Rio Grande River",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville--Paredes Lineroad",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1920",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Mifflin, 1818-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kenedy, Petra Vela, 1823-1885"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vidal, Luis, 1813-1849"
+        },
+        {
+          "tag": "Unidentified, King",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Garza, Catarino, 1859-1895"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Diaz, Porfirio, 1830-1915"
+        },
+        {
+          "tag": "Cuellar, Romo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Unidentified, Vicente",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Ranching",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Voting--Law and legislation",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Citizenship",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Oral tradition"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "English language language"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Bilingualism"
+        },
+        {
+          "tag": "Beach",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Reeds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "0c3abf58-07cd-49d5-97cd-cd9044c2696d"
+    },
+    {
+      "start_time": 1105,
+      "end_time": 1112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was it like being a young Chicano in public schools?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Medrano, Manuel, 1949-",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Fredericksburg",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Castaneda, Josefina",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Castaneda, Carlos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Education",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Anglos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Germans",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Migration",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "World War, 1939-1945",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexican Revolution, Mexico, 1910-1920"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexican Revolution, Mexico, 1923-1924"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "English language language rule"
+        },
+        {
+          "tag": "German language",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "English language"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Bilingualism"
+        },
+        {
+          "tag": "Code switching",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "a7091706-aa67-4ff0-83f5-ad381df1b140"
+    },
+    {
+      "start_time": 1112,
+      "end_time": 1135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In that time, we had one grammar school. I think the remnants are, of the tornado, [inaudible] school. It was a two-story building. It had had an iron fence which had been destroyed by that time. I think that probably around the lower grades"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Fredericksburg",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Castaneda, Josefina",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Castaneda, Carlos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Education",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Anglos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Germans",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Migration",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "World War, 1939-1945",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexican Revolution, Mexico, 1910-1920"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexican Revolution, Mexico, 1923-1924"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "English language language rule"
+        },
+        {
+          "tag": "German language",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "English language"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Bilingualism"
+        },
+        {
+          "tag": "Code switching",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "373bd90a-e981-48de-aa37-db4393fb2cec"
+    },
+    {
+      "start_time": 1135,
+      "end_time": 1158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ninety percent were Mexicanos, so really the Anglos were a minority. Sometimes if they didn’t watch out, they might be beaten up. And everybody spoke Spanish. They were not supposed to because the English language rule, I'm sure you’re aware, began"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Fredericksburg",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Castaneda, Josefina",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Castaneda, Carlos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Education",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Anglos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Germans",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Migration",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "World War, 1939-1945",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexican Revolution, Mexico, 1910-1920"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexican Revolution, Mexico, 1923-1924"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "English language language rule"
+        },
+        {
+          "tag": "German language",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "English language"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Bilingualism"
+        },
+        {
+          "tag": "Code switching",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "fde14f5b-09fb-4cd4-8e7b-e3ba496363d2"
+    },
+    {
+      "start_time": 1158,
+      "end_time": 1182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "during World War II and was aimed at the Germans, not at the Mexicans, but after the war, the Germans continued speaking German. I remember, Fredericksburg, had my car repaired over there, two young mechanics were doing what we used to do in the valley, I guess you still do it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Fredericksburg",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Castaneda, Josefina",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Castaneda, Carlos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Education",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Anglos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Germans",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Migration",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "World War, 1939-1945",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexican Revolution, Mexico, 1910-1920"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexican Revolution, Mexico, 1923-1924"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "English language language rule"
+        },
+        {
+          "tag": "German language",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "English language"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Bilingualism"
+        },
+        {
+          "tag": "Code switching",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "7bb5ded6-a5b1-4d9e-94f0-860a1e2eea7e"
+    },
+    {
+      "start_time": 1182,
+      "end_time": 1195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They would be speaking in German and English, and one of them would say something in English and the other would answer in German. But they saddled us with that, understand until fairly recenltly, but not in my time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Fredericksburg",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Castaneda, Josefina",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Castaneda, Carlos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Education",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Anglos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Germans",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Migration",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "World War, 1939-1945",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexican Revolution, Mexico, 1910-1920"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexican Revolution, Mexico, 1923-1924"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "English language language rule"
+        },
+        {
+          "tag": "German language",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "English language"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Bilingualism"
+        },
+        {
+          "tag": "Code switching",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "882093bc-8e1c-40a2-94e7-1de5f964784f"
+    },
+    {
+      "start_time": 1196,
+      "end_time": 1217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My first grade teacher was Miss Josefina Castaneda, sister of Dr. Castaneda, Carlos Castaneda, who grew up, he was born in, across the river, I don’t remember whether he was born in Mier or one of those other places, but he grew up in Brownsville,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Fredericksburg",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Castaneda, Josefina",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Castaneda, Carlos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Education",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Anglos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Germans",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Migration",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "World War, 1939-1945",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexican Revolution, Mexico, 1910-1920"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexican Revolution, Mexico, 1923-1924"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "English language language rule"
+        },
+        {
+          "tag": "German language",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "English language"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Bilingualism"
+        },
+        {
+          "tag": "Code switching",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "5c36c4fb-e4af-4445-8c3d-ba8f2fc3a910"
+    },
+    {
+      "start_time": 1217,
+      "end_time": 1240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "went to St. Joseph’s with my brothers. So I had no problem on that. Other kids, especially, remember by the time I went to school, the civil war in Mexico had been going on for some time, and people were coming, fleeing, and we get, we would"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Fredericksburg",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Castaneda, Josefina",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Castaneda, Carlos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Education",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Anglos",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Germans",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Migration",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "World War, 1939-1945",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexican Revolution, Mexico, 1910-1920"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mexican Revolution, Mexico, 1923-1924"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "English language language rule"
+        },
+        {
+          "tag": "German language",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "English language"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Bilingualism"
+        },
+        {
+          "tag": "Code switching",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "44d3dd4a-ed80-4f68-95c4-8c7b88e7b4de"
+    },
+    {
+      "start_time": 1240,
+      "end_time": 1264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "get a number of those in school. Now they had problems because they couldn’t speak English. And because some of the, some of the Tejano kids would pick on them, and there is where I heard the word “mojado” first. It does not mean “wetback,” for God’s sakes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1936",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dobie, James Frank, 1888-1964"
+        },
+        {
+          "tag": "Prohibition",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Folk tales"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Bullying",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mojado",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Wetback",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "George Washington Gomez",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "73bc9937-03c5-4328-8d40-6b997ce9db7c"
+    },
+    {
+      "start_time": 1264,
+      "end_time": 1288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I remember they were chasing one little boy, yelling “Mojado, mojado!” and knocked him down, and they felt under his, behind his ears. That is where they were supposed to be mojado after crossing the river. It was only when the Anglos finally began to think of these people,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1936",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dobie, James Frank, 1888-1964"
+        },
+        {
+          "tag": "Prohibition",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Folk tales"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Bullying",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mojado",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Wetback",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "George Washington Gomez",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "9e0749d5-89dc-4717-94ce-31edffcb5c8d"
+    },
+    {
+      "start_time": 1288,
+      "end_time": 1311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they couldn’t call them “the wets” because it was the Prohibition, wets versus dries, so they were the ones that called them “los mojados.” And it happened, that about the time that the word “wetback” became very well-known."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1936",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dobie, James Frank, 1888-1964"
+        },
+        {
+          "tag": "Prohibition",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Folk tales"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Bullying",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mojado",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Wetback",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "George Washington Gomez",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "acf2107d-58c0-4ba6-b932-db0b2690eb2a"
+    },
+    {
+      "start_time": 1311,
+      "end_time": 1333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I first heard of J. Frank Dobie. In 1936, I began to work at the Herald. I had seen the man once, now this was in high school or junior college. They were together. We used the same auditorium. He came and spoke to us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1936",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dobie, James Frank, 1888-1964"
+        },
+        {
+          "tag": "Prohibition",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Folk tales"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Bullying",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mojado",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Wetback",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "George Washington Gomez",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "7ed1c744-0746-48bd-a43e-d6194607248e"
+    },
+    {
+      "start_time": 1333,
+      "end_time": 1344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That parody of his in George Washington Gomez is based on that, though I didn’t feel anything-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "1936",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dobie, James Frank, 1888-1964"
+        },
+        {
+          "tag": "Prohibition",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Folk tales"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Bullying",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Mojado",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Wetback",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "George Washington Gomez",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "50868048-560b-4669-a169-25ca08366cf5"
+    }
+  ],
   "event_id": "cda8e24c-00a2-422b-852a-fa57d70e2ed9",
   "set": "FIX, 2",
   "source_id": "c4f9e66a-d8f9-40e3-96ed-9d5d97ab5ead"

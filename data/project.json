@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "New Deal, 1933-1939",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Oral history",
           "category": "_uncategorized_"
         },
@@ -735,7 +731,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:10:22.076Z",
+    "updated_at": "2026-05-14T18:10:24.537Z",
     "generate_pages_site": true
   },
   "annotations": {},

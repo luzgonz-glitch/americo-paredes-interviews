@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Ballads",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Braceros",
           "category": "_uncategorized_"
         },
@@ -859,7 +855,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:08:55.244Z",
+    "updated_at": "2026-05-14T18:08:58.084Z",
     "generate_pages_site": true
   },
   "annotations": {},

@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "PhD",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Physical Anthropology",
           "category": "_uncategorized_"
         },
@@ -339,7 +335,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:15:00.575Z",
+    "updated_at": "2026-05-14T18:15:03.281Z",
     "generate_pages_site": true
   },
   "annotations": {},

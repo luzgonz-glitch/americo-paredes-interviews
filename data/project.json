@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Vidal, Alberto",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Vidal, Bernardo",
           "category": "_uncategorized_"
         },
@@ -939,7 +935,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:07:39.898Z",
+    "updated_at": "2026-05-14T18:07:42.446Z",
     "generate_pages_site": true
   },
   "annotations": {},

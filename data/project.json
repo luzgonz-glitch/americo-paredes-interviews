@@ -34,10 +34,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Inquisition--Mexico"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Oral tradition"
         },
         {
@@ -199,7 +195,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:16:35.695Z",
+    "updated_at": "2026-05-14T18:16:37.800Z",
     "generate_pages_site": true
   },
   "annotations": {},

@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Zavaleta, Bruno",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Accordion",
           "category": "_uncategorized_"
         },
@@ -887,7 +883,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:08:26.321Z",
+    "updated_at": "2026-05-14T18:08:28.657Z",
     "generate_pages_site": true
   },
   "annotations": {},

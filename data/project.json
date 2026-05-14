@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Mexican-American Studies Center",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Pharmacology",
           "category": "_uncategorized_"
         },
@@ -347,7 +343,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:14:55.896Z",
+    "updated_at": "2026-05-14T18:14:58.113Z",
     "generate_pages_site": true
   },
   "annotations": {},

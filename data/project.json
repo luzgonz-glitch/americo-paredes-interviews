@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Physical Anthropology",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Poetry Contest",
           "category": "_uncategorized_"
         },
@@ -335,7 +331,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:15:03.281Z",
+    "updated_at": "2026-05-14T18:15:05.538Z",
     "generate_pages_site": true
   },
   "annotations": {},

@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Ramirez, Roberto",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Ranger McAllister",
           "category": "_uncategorized_"
         },
@@ -1011,7 +1007,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:06:41.207Z",
+    "updated_at": "2026-05-14T18:06:43.474Z",
     "generate_pages_site": true
   },
   "annotations": {},

@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Authors--Autographs",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Ballads",
           "category": "_uncategorized_"
         },
@@ -863,7 +859,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:08:43.960Z",
+    "updated_at": "2026-05-14T18:08:55.244Z",
     "generate_pages_site": true
   },
   "annotations": {},

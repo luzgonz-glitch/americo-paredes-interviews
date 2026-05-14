@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Criminal Investigation Division",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "LULAC-League of United Latin American Citizens",
           "category": "_uncategorized_"
         },
@@ -471,7 +467,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:13:22.020Z",
+    "updated_at": "2026-05-14T18:13:24.737Z",
     "generate_pages_site": true
   },
   "annotations": {},

@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Guitar--Instrument",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Juventino Rosas--Waltz--Sobre Las Olas",
           "category": "_uncategorized_"
         },
@@ -271,7 +267,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:15:50.818Z",
+    "updated_at": "2026-05-14T18:15:53.523Z",
     "generate_pages_site": true
   },
   "annotations": {},

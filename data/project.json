@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Vidal, Refugia",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Washington, George 1732-1799",
           "category": "_uncategorized_"
         },
@@ -907,7 +903,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:08:01.220Z",
+    "updated_at": "2026-05-14T18:08:03.997Z",
     "generate_pages_site": true
   },
   "annotations": {},

@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Mexico",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Mexico--Nuevo Leon",
           "category": "_uncategorized_"
         },
@@ -1475,7 +1471,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T17:54:09.668Z",
+    "updated_at": "2026-05-14T17:54:13.175Z",
     "generate_pages_site": true
   },
   "annotations": {},

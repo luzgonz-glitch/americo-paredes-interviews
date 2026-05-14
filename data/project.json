@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Anthropology",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Archeology",
           "category": "_uncategorized_"
         },
@@ -419,7 +415,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:14:00.403Z",
+    "updated_at": "2026-05-14T18:14:03.815Z",
     "generate_pages_site": true
   },
   "annotations": {},

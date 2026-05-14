@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Unidentified, Vicente",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Valentín, Enrique F",
           "category": "_uncategorized_"
         },
@@ -947,7 +943,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:07:34.529Z",
+    "updated_at": "2026-05-14T18:07:37.059Z",
     "generate_pages_site": true
   },
   "annotations": {},

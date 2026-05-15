@@ -1005,10 +1005,6 @@
           "category": "Biographical"
         },
         {
-          "tag": "Extended Family",
-          "category": "Biographical"
-        },
-        {
           "tag": "Friends",
           "category": "Biographical"
         },
@@ -1483,7 +1479,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-15T00:56:05.516Z",
+    "updated_at": "2026-05-15T00:56:29.093Z",
     "generate_pages_site": true
   },
   "annotations": {},

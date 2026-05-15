@@ -41307,22 +41307,6 @@
       ],
       "tags": [],
       "uuid": "f0372643-915c-43b4-bd10-774b862b4586"
-    },
-    {
-      "start_time": null,
-      "end_time": null,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "b821b7ff-5084-4232-be27-7d489fdfe0d9"
     }
   ],
   "event_id": "cda8e24c-00a2-422b-852a-fa57d70e2ed9",
